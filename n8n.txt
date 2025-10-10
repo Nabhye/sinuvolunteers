@@ -1,0 +1,6 @@
+n8n is a (free for 14 days) opensource automation tool to make AI Automations
+n8n is fully customizable and it can be self hosted
+it can automate any type of workflow like emails, databases etc 
+It provides a drag and drop interface which make it easier for users who dont have knowledge about coding
+
+website link: https://nabhye.github.io/NP/
